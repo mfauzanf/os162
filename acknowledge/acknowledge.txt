@@ -1,5 +1,3 @@
-TBA SOON
-
 kautsar.ali,SUCCESS,kautsarali,FAILED
 abdullah.ahmad,SUCCESS,ahmad45,FAILED
 alvin.reza,SUCCESS,AlvinRezaLugiana,SUCCESS
