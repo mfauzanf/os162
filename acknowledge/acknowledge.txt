@@ -2,3 +2,13 @@ TBA SOON
 
 kautsar.ali,SUCCESS,kautsarali,FAILED
 abdullah.ahmad,SUCCESS,ahmad45,FAILED
+alvin.reza,SUCCESS,AlvinRezaLugiana,SUCCESS
+risyad.ridho,SUCCESS,ngoding,SUCCESS
+muhammad.raihan41,SUCCESS,rraihansaputra,SUCCESS
+kautsar.ali,SUCCESS,kautsarali,FAILED
+rizky.aly,SUCCESS,rizkyaly,SUCCESS
+louis.christopher,SUCCESS,kakioshe,SUCCESS
+muhammad.farrel,SUCCESS,farrelyaman,SUCCESS
+keyne.kassapa,SUCCESS,keynekassapa13,SUCCESS
+joshia.rheinier,SUCCESS,joshiarheinier,SUCCESS
+abdullah.ahmad,SUCCESS,ahmad45,FAILED
