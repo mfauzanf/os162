@@ -1,2 +1,11 @@
-21:04/31/08/2016
-21:01/31/08/2016
+09:26/01/09/2016
+ahmad45,HOME_OK,GITHUB_OK
+joshiarheinier,HOME_OK,GITHUB_OK
+keynekassapa13,HOME_OK,GITHUB_OK
+farrelyaman,HOME_OK,GITHUB_OK
+kakioshe,HOME_OK,GITHUB_OK
+rizkyaly,HOME_OK,GITHUB_OK
+kautsarali,HOME_OK,GITHUB_OK
+rraihansaputra,HOME_OK,GITHUB_OK
+ngoding,HOME_OK,GITHUB_OK
+AlvinRezaLugiana,HOME_OK,GITHUB_OK
